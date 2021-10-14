@@ -40,7 +40,7 @@
 		<guava.version>25.1-jre</guava.version>
 		<swagger.version>1.5.16</swagger.version>
 		<joda.version>2.10</joda.version>
-		<guice.version>4.2.0</guice.version>
+		<guice.version>4.2.3</guice.version>
 		<c3p0.version>0.9.5.2</c3p0.version>
 		<beanutils.version>1.9.3</beanutils.version>
 		
@@ -78,9 +78,9 @@
 		<maven.release.plugin.version>2.5.3</maven.release.plugin.version>
 		<maven.buildnumber.plugin.version>1.4</maven.buildnumber.plugin.version>
 		
-		<checkstyle.config />
-		<findbugs.config />
-		<maven.build.classifier />
+		<checkstyle.config/>
+		<findbugs.config/>
+		<maven.build.classifier/>
 		<commons.pool.version>2.6.0</commons.pool.version>
 		<activejpa.version>1.0.1</activejpa.version>
 		<jedis.version>2.9.0</jedis.version>
