@@ -78,12 +78,12 @@
 		<maven.release.plugin.version>2.5.3</maven.release.plugin.version>
 		<maven.buildnumber.plugin.version>1.4</maven.buildnumber.plugin.version>
 		
-		<checkstyle.config />
-		<findbugs.config />
-		<maven.build.classifier />
+		<checkstyle.config/>
+		<findbugs.config/>
+		<maven.build.classifier/>
 		<commons.pool.version>2.6.0</commons.pool.version>
 		<activejpa.version>1.0.1</activejpa.version>
-		<jedis.version>2.9.0</jedis.version>
+		<jedis.version>2.10.2</jedis.version>
 		<flyway.version>5.1.4</flyway.version>
 		<httpclient.version>4.5.3</httpclient.version>
 	</properties>
