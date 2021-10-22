@@ -85,7 +85,7 @@
 		<activejpa.version>1.0.1</activejpa.version>
 		<jedis.version>2.9.0</jedis.version>
 		<flyway.version>5.1.4</flyway.version>
-		<httpclient.version>4.5.3</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 	</properties>
 
 	<build>
