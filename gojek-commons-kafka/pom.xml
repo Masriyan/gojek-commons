@@ -8,7 +8,7 @@
 	<artifactId>gojek-commons-kafka</artifactId>
 	<name>gojek-commons-kafka</name>
 	<properties>
-		<kafka.version>0.10.1.0</kafka.version>
+		<kafka.version>3.6.0</kafka.version>
 	</properties>
 	<dependencies>
 		<dependency>
